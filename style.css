@@ -142,6 +142,7 @@ header .fa-bars{
     color: #999;
     padding: 1rem 0;
     line-height: 1.5;
+    text-transform: none;
 }
 
 .about .row{
@@ -194,6 +195,7 @@ mix-blend-mode: screen;
     padding: 5rem 0;
     padding-top: 1rem;
     line-height: 1.5;
+    text-transform: none;
 }
 
 .icons-container{
